@@ -4,7 +4,7 @@ import NFTMinter from 'components/templates/nftMinter/NFTMinter';
 
 const NFTMinterPage: NextPage = (props) => {
   return (
-    <Default pageName="Transactions">
+    <Default pageName="NFT Minter">
       <NFTMinter {...props} />
     </Default>
   );

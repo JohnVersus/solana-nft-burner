@@ -1,2 +1,2 @@
-export { default as Transactions } from './NFTMinter';
+export { default as NFTMinter } from './NFTMinter';
 export * from './types';

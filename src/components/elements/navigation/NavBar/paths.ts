@@ -46,6 +46,10 @@ const NAV_LINKS: ISubNav[] = [
     label: 'NFT Minter',
     href: '/nftMinter',
   },
+  {
+    label: 'NFT Burner',
+    href: '/nftBurner',
+  },
 ];
 
 export default NAV_LINKS;
